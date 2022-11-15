@@ -88,7 +88,6 @@ try{
 
 <!-- redirect 重定向 -->
 <Redirect to="/demo">
-
 <!-- 路由传参 -->
 
 <!-- params参数 -->
